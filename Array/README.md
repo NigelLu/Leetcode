@@ -16,5 +16,15 @@
   - [solution link](solutions/SquaresOfSortedArray.md)
 
 - 209. Minimum Size Subarray Sum
+
   - [leetcode link](https://leetcode.com/problems/minimum-size-subarray-sum/)
   - [solution link](solutions/MinimumSizeSubarraySum.md)
+
+- 59. Spiral Matrix II
+
+  - [leetcode link](https://leetcode.com/problems/spiral-matrix-ii/)
+  - [solution link](solutions/SpiralMatrix_II.md)
+
+- 209. Conclusion
+
+  - [link](solutions/Conclusion.md)
