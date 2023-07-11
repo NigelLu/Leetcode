@@ -24,6 +24,7 @@ from typing import List
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         aux = self._createAux(needle)
+        print(aux)
 
         i = 0
         j = 0
@@ -70,4 +71,4 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
 
-    print(solution.strStr("deadElephant", "Ele"))
+    print(solution.strStr("deadElephant", "abcabcabcabc"))
